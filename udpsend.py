@@ -1,7 +1,7 @@
 import socket
 import time
 
-HOST = "10.108.139.206"
+HOST = "131.94.132.158"
 PORT = 10000
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
